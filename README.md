@@ -1,7 +1,10 @@
 # Dealflow Legal
 
-Public Terms of Service and Privacy Policy for Dealflow.
+A small static legal website for Dealflow, for private creator and sponsorship workflows. This repository contains only public website files, separate from the private Dealflow application.
 
-This repository contains only the public legal website. The Dealflow application code belongs in its separate private repository.
+No dependencies or build steps are required. Open index.html directly to preview.
 
-GitHub Pages publishes from the `main` branch and `/` (root) folder.
+Enable GitHub Pages: Settings → Pages → Deploy from a branch → main → / (root) → Save.
+
+Terms: https://wave49192.github.io/Dealflow-Legal/terms.html
+Privacy: https://wave49192.github.io/Dealflow-Legal/privacy.html
